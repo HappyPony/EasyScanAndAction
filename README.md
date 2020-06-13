@@ -24,5 +24,6 @@ Mit einem Klick auf "Absenden" wird dann eine entsprechend formatierte und gefü
 Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schneller und einfacher.
 
 [1] https://hackathon.kreativitaet-trifft-technik.de/
+[2] Digitale Lernlabore - Urban Data Labs und Civic Data Labs für die Smart City. Linkssammlung - https://realtime.fyi/articles/panicroomplus/digitale-lernlabore-urban-data-labs-und-civic-data-labs-fuer-die-smart-city-linkssammlung
 
 
