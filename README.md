@@ -22,8 +22,9 @@ Mit einem Klick auf "Absenden" wird dann eine entsprechend formatierte und gefü
 Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schneller und einfacher.
 
 ## Szenario 2:
-- Besucher:innen eines Lokals oder Frisörs generieren einmalig einen QR-Code  und speichern diesen auf dem Smarthone als einfaches Bild.
-- 
+- Besucher:innen eines Lokals oder Frisörs generieren einen QR-Code mit den in der Vorlage Gästeregistrierung [5] vorgesehenen persönlichen Daten 
+- die Daten werden per QR-Code wird in die Erfassungslösung der Gaststäte eingelesen
+- die Daten werden an das Gesundheitsamt übermittelt - 
 
 [1] Oldenburger Civic Data Lab Hackathon - https://hackathon.kreativitaet-trifft-technik.de/
 
@@ -33,5 +34,7 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 
 [4] EasyScanAndAction - https://github.com/jw23578/EasyScanAndAction
 
-[5] Vorlage Gästeregistrierung und Anforderungen Datenschutz bei der Gästeregistrierung für die Gaststätten in Niedersachsen- https://www.dehoga-niedersachsen.de/branchenthemen/corona-krise/
+[5] Vorlage Gästeregistrierung - https://www.dehoga-niedersachsen.de/branchenthemen/corona-krise/
+
+[6]  Anforderungen Datenschutz bei der Gästeregistrierung für die Gaststätten in Niedersachsen - [5]
 
