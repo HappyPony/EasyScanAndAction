@@ -27,4 +27,6 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 
 [2] Digitale Lernlabore - Urban Data Labs und Civic Data Labs für die Smart City. Linkssammlung - https://realtime.fyi/articles/panicroomplus/digitale-lernlabore-urban-data-labs-und-civic-data-labs-fuer-die-smart-city-linkssammlung
 
+[3] Ideen In Der Corona-Krise: Kontaktloses Einkaufen im Ammerland leicht gemacht, 01.04.2020 - https://www.nwzonline.de/plus-ammerland/ammerland-edewecht-ideen-in-der-corona-krise-kontaktloses-einkaufen-im-ammerland-leicht-gemacht_a_50,7,3394774699.html
+
 
