@@ -31,6 +31,7 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 - Besucher:innen lesen mit der EasyScanAndAction App den Code ein, prüfen die Rechnung 
 -  Besucher:innen generieren einen QR-Code mit einer "Bezahlen"-Aktion (der Funktionsumfang der "Bezahlen"-Aktion muss noch definiert werden)
 
+## Quellenverzeichnis
 [1] Oldenburger Civic Data Lab Hackathon - https://hackathon.kreativitaet-trifft-technik.de/
 
 [2] Digitale Lernlabore - Urban Data Labs und Civic Data Labs für die Smart City. Linkssammlung - https://realtime.fyi/articles/panicroomplus/digitale-lernlabore-urban-data-labs-und-civic-data-labs-fuer-die-smart-city-linkssammlung
