@@ -22,6 +22,8 @@ Mit einem Klick auf "Absenden" wird dann eine entsprechend formatierte und gefü
 Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schneller und einfacher.
 
 ## Szenario 2:
+- Besucher:innen eines Lokals oder Frisörs generieren einmalig einen QR-Code  und speichern diesen auf dem Smarthone als einfaches Bild.
+- 
 
 [1] Oldenburger Civic Data Lab Hackathon - https://hackathon.kreativitaet-trifft-technik.de/
 
@@ -30,4 +32,6 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 [3] Ideen In Der Corona-Krise: Kontaktloses Einkaufen im Ammerland leicht gemacht, 01.04.2020 - https://www.nwzonline.de/plus-ammerland/ammerland-edewecht-ideen-in-der-corona-krise-kontaktloses-einkaufen-im-ammerland-leicht-gemacht_a_50,7,3394774699.html
 
 [4] EasyScanAndAction - https://github.com/jw23578/EasyScanAndAction
+
+[5] Vorlage Gästeregistrierung und Anforderungen Datenschutz bei der Gästeregistrierung für die Gaststätten in Niedersachsen- https://www.dehoga-niedersachsen.de/branchenthemen/corona-krise/
 
