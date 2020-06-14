@@ -48,3 +48,5 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 
 [7] In Oldenburg: Lokal einkaufen – jetzt erst recht! - https://www.oldenburg.de/startseite/wirtschaft/wirtschaftsfoerderung/corona-lokal-einkaufen-uebersichts-und-unterstuetzungsportale.html
 
+[8] Wiedereintritt unter Bedingungen der Corona-Krise. Gastronomie. Stand: 28.05.2020 - https://www.dehoga-niedersachsen.de/fileadmin/04_Branchenthemen/Wiedereintritt_Gastronomie_28052020_inklAnlagen.pdf
+
