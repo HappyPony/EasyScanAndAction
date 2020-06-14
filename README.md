@@ -1,12 +1,10 @@
-# EasyScanAndAction
-Aktionen/Aufgaben/Informationen per QR-Code übertragen und ausführen
+# EasyScanAndAction fork 
+Kontakte zeitsparend anbahnen und ad-hoc Aktionsnetzwerke knüpfen
 
 ## In aller Kürze:
-Mittels einer App für Android und iOS können QR-Codes erstellt und gescannt werden.
-Die enthaltenen Informationen triggern auf der scannenden Seite halb-/automatische Aktionen, wie zum Beispiel den Versand einer vorformatierten E-Mail an einen übertragenenen Empfänger.
-Mit der App können sowohl QR-Codes erstellt, als auch gelesen und ausgeführt werden.
+Dies ist ein Fork der angestrebten EasyScanAndAction-Lösung. Schwerpunkt des Forks ist die Kontaktanbahnung, Vernetzung von Kontakten und die Befähigung der vernetzten Personen aktiv zu werden, bestimmte Aktionen auszulösen. Die Kontaktanbahnung, Vernetzung mittels eines QR-Codes wie in der EasyScanAndAction-Lösung ist eine in bestimmten Szenarien zeitsparende Kontaktmöglichkeit.
 
-Entwickelt werden soll die App in ihrer Basisfunktionalität im Oldenburger Civic Data Lab Hackathon [1]. Das Protokoll, also welche Daten/Aktionen im QR-Code ausgetauscht werden können ist noch nicht festgelegt und gerade dafür bietet sich ein Hackathon mit vielen Teilnehmern aus verschiedensten Fachrichtungen und mit unterschiedlichsten Interessen an um einen schönen Strauß an Anwendungsmöglichkeiten zu bekommen.
+Das Oldenburger Civic Data Lab Hackathon [1] bietet die Möglichkeit mit vielen Teilnehmern aus verschiedensten Fachrichtungen und mit unterschiedlichsten Interessen denkbare Anwendungsmöglichkeiten des EasyScanAndAction forks auszuloten.
 
 ## Szenario 1:
 Aktuell müssen - zum Beispiel in Restaurants und bei Frisören (Geschäft) - zur Corona-Kontaktnachverfolgung bei jedem Besuch die Kontakdaten des Kunden aufgenommen für wenige Wochen aufbewahrt werden.
@@ -22,6 +20,8 @@ Als Kunde kann der QR-Code dann mit dieser App gescannt werden. Daraufhin wird d
 Mit einem Klick auf "Absenden" wird dann eine entsprechend formatierte und gefüllte Mail an die übergebene E-Mailadresse gesendet.
 
 Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schneller und einfacher.
+
+## Szenario 2:
 
 [1] Oldenburger Civic Data Lab Hackathon - https://hackathon.kreativitaet-trifft-technik.de/
 
