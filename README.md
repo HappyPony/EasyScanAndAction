@@ -30,6 +30,7 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 - den Besucher:innen wird vom Lokalbetreiber oder Frisör ein QR-Code mit der Rechnung präsentiert
 - Besucher:innen lesen mit der EasyScanAndAction App den Code ein, prüfen die Rechnung 
 -  Besucher:innen generieren einen QR-Code mit einer "Bezahlen"-Aktion (der Funktionsumfang der "Bezahlen"-Aktion muss noch definiert werden)
+- vlt. kann das "Szenario 3 - Bezahlung" Feature meßbare Ergebnisse für die Erfassung von Statistiken: a) Wie viele Besucher:innen haben die Lokale bzw. Frisöre? b) Wie viele Besucher:innen unterstützen die Aktion "Ich kaufe in Oldenburg!"?
 
 ## Quellenverzeichnis
 [1] Oldenburger Civic Data Lab Hackathon - https://hackathon.kreativitaet-trifft-technik.de/
@@ -43,4 +44,7 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 [5] Vorlage Gästeregistrierung - https://www.dehoga-niedersachsen.de/branchenthemen/corona-krise/
 
 [6]  Anforderungen Datenschutz bei der Gästeregistrierung für die Gaststätten in Niedersachsen - [5]
+
+
+[7] In Oldenburg: Lokal einkaufen – jetzt erst recht! - https://www.oldenburg.de/startseite/wirtschaft/wirtschaftsfoerderung/corona-lokal-einkaufen-uebersichts-und-unterstuetzungsportale.html
 
