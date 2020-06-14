@@ -16,7 +16,7 @@ Das Geschäft erstellt mit der App einen QR Code der folgendes enthält:
 - E-Mailadresse an die die Kontaktdaten geschickt werden sollen
 Der QR-Code wird als PDF erstellt, ausgedruckt und für den Kunden scannbar am Eingangstresen oder auf den Tischen angebracht.
 
-Als Kunde kann der QR-Code dann mit dieser App gescannt werden. Daraufhin wird die AktionsID interpretiert und die gewünschten Daten in einem Formular abgefragt. Nur beim ersten Mal müssen die Daten dann noch eingegeben werden. Im nächsten Geschäft oder beim zweiten besucht werden die Daten dann schon automatisch vorausgefüllt.
+Als Kunde kann der QR-Code dann mit der EasyScanAndAction App von der Website des Geschäfts oder im Geschäft selbst gescannt werden. Daraufhin wird die AktionsID interpretiert und die gewünschten Daten in einem Formular abgefragt. Nur beim ersten Mal müssen die Daten dann noch eingegeben werden. Im nächsten Geschäft oder beim zweiten besucht werden die Daten dann schon automatisch vorausgefüllt.
 Mit einem Klick auf "Absenden" wird dann eine entsprechend formatierte und gefüllte Mail an die übergebene E-Mailadresse gesendet.
 
 Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schneller und einfacher.
