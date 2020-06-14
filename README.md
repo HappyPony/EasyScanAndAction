@@ -6,7 +6,7 @@ Dies ist ein Fork der angestrebten EasyScanAndAction-Lösung [4]. Schwerpunkt de
 
 Das Oldenburger Civic Data Lab Hackathon [1] bietet die Möglichkeit mit vielen Teilnehmern aus verschiedensten Fachrichtungen und mit unterschiedlichsten Interessen denkbare Anwendungsmöglichkeiten des EasyScanAndAction forks auszuloten.
 
-## Szenario 1:
+## Szenario 1 - eMail-Übermittlung:
 Aktuell müssen - zum Beispiel in Restaurants und bei Frisören (Geschäft) - zur Corona-Kontaktnachverfolgung bei jedem Besuch die Kontakdaten des Kunden aufgenommen für wenige Wochen aufbewahrt werden.
 Bis auf kleine Unterschiede im Umfang der erhobenen Daten findet immer der gleiche Vorgang statt.
 Mit der App kann dieser Vorgang sowohl für den Kunden, als auch für das Geschäft wesentlich komfortabler gestaltet werden:
@@ -21,10 +21,15 @@ Mit einem Klick auf "Absenden" wird dann eine entsprechend formatierte und gefü
 
 Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schneller und einfacher.
 
-## Szenario 2:
+## Szenario 2 QR-Übermittlung:
 - Besucher:innen eines Lokals oder Frisörs generieren einen QR-Code mit den in der Vorlage Gästeregistrierung [5] vorgesehenen persönlichen Daten 
 - die Daten werden per QR-Code wird in die Erfassungslösung der Gaststäte eingelesen
-- die Daten werden an das Gesundheitsamt übermittelt - 
+- die Daten werden an das Gesundheitsamt übermittelt - s. Anforderungen in [6]
+
+## Szenario 3 - Bezahlung:
+- den Besucher:innen wird vom Lokalbetreiber oder Frisör ein QR-Code mit der Rechnung präsentiert
+- Besucher:innen lesen mit der EasyScanAndAction App den Code ein, prüfen die Rechnung 
+-  Besucher:innen generieren einen QR-Code mit einer "Bezahlen"-Aktion (der Funktionsumfang der "Bezahlen"-Aktion muss noch definiert werden)
 
 [1] Oldenburger Civic Data Lab Hackathon - https://hackathon.kreativitaet-trifft-technik.de/
 
