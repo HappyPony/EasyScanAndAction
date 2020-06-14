@@ -2,7 +2,7 @@
 Kontakte zeitsparend anbahnen und ad-hoc Aktionsnetzwerke knüpfen
 
 ## In aller Kürze:
-Dies ist ein Fork der angestrebten EasyScanAndAction-Lösung. Schwerpunkt des Forks ist die Kontaktanbahnung, Vernetzung von Kontakten und die Befähigung der vernetzten Personen aktiv zu werden, bestimmte Aktionen auszulösen. Die Kontaktanbahnung, Vernetzung mittels eines QR-Codes wie in der EasyScanAndAction-Lösung ist eine in bestimmten Szenarien zeitsparende Kontaktmöglichkeit.
+Dies ist ein Fork der angestrebten EasyScanAndAction-Lösung [4]. Schwerpunkt des Forks ist die Kontaktanbahnung, Vernetzung von Kontakten und die Befähigung der vernetzten Personen aktiv zu werden, bestimmte Aktionen auszulösen. Die Kontaktanbahnung, Vernetzung mittels eines QR-Codes wie in der angestrebten EasyScanAndAction-Lösung ist eine in bestimmten Szenarien vorteilhafte Kontaktmöglichkeit.
 
 Das Oldenburger Civic Data Lab Hackathon [1] bietet die Möglichkeit mit vielen Teilnehmern aus verschiedensten Fachrichtungen und mit unterschiedlichsten Interessen denkbare Anwendungsmöglichkeiten des EasyScanAndAction forks auszuloten.
 
@@ -29,4 +29,5 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 
 [3] Ideen In Der Corona-Krise: Kontaktloses Einkaufen im Ammerland leicht gemacht, 01.04.2020 - https://www.nwzonline.de/plus-ammerland/ammerland-edewecht-ideen-in-der-corona-krise-kontaktloses-einkaufen-im-ammerland-leicht-gemacht_a_50,7,3394774699.html
 
+[4] EasyScanAndAction - https://github.com/jw23578/EasyScanAndAction
 
