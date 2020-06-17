@@ -51,3 +51,5 @@ Papier ist damit nicht mehr nötig und die Datenerfassung geht wesentlich schnel
 [8] Wiedereintritt unter Bedingungen der Corona-Krise. Gastronomie. Stand: 28.05.2020 - https://www.dehoga-niedersachsen.de/fileadmin/04_Branchenthemen/Wiedereintritt_Gastronomie_28052020_inklAnlagen.pdf
 
 [9] Beschreibung der Prozessorganisation und der Infrastruktur bei der Rufnummerportierung - https://administrator.de/forum/rufnummernmitnahme-portierung-beschleunigen-528428.html#comment-1414820
+
+[10] Verordnung  zur Änderung der Niedersächsischen Verordnung über infektionsschützende  Maßnahmen gegen die Ausbreitung des Corona-Virus vom 5. Juni 2020 - https://www.oldenburg.de/fileadmin/oldenburg/Benutzer/PDF/01/Corona-VO_05-06-2020.pdf
